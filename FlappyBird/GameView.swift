@@ -1,10 +1,3 @@
-//
-//  GameView.swift
-//  FlappyBird
-//
-//  Created by Alexey Efimov on 29.07.2024.
-//
-
 import SwiftUI
 
 // Состояние игры

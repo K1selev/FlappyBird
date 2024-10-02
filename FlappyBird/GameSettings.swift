@@ -1,10 +1,3 @@
-//
-//  GameSettings.swift
-//  FlappyBird
-//
-//  Created by Alexey Efimov on 29.07.2024.
-//
-
 /// Структура, содержащая настройки игры Flappy Bird.
 struct GameSettings {
     /// Ширина трубы.
